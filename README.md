@@ -4,7 +4,7 @@
 </a>
 
 <p align="center">
-  An Open-Source GPT Built With Next.js and the AI SDK by Vercel.
+  An Open-Source GPT Built With Next.js and the AI SDK .
 </p>
 
 <p align="center">
